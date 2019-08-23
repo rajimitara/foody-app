@@ -1,0 +1,7 @@
+package com.thoughtworks.foody.model;
+
+public class Item {
+
+	
+	
+}
